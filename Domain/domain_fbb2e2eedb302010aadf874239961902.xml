@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2021-01-01 18:55:10">
+<domain action="INSERT_OR_UPDATE">
+<active>true</active>
+<default>false</default>
+<description>This should be the service provider. </description>
+<name>Cognizant</name>
+<parent display_value=""/>
+<primary>true</primary>
+<sys_created_by>alexis</sys_created_by>
+<sys_created_on>2020-12-03 16:25:08</sys_created_on>
+<sys_domain>fbb2e2eedb302010aadf874239961902</sys_domain>
+<sys_domain_code>!!!</sys_domain_code>
+<sys_domain_path>!!!/</sys_domain_path>
+<sys_id>fbb2e2eedb302010aadf874239961902</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>alexis</sys_updated_by>
+<sys_updated_on>2020-12-03 16:25:08</sys_updated_on>
+<type>MSP</type>
+</domain>
+</unload>
