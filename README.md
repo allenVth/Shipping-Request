@@ -32,6 +32,8 @@ ___Update Set___
     3. A new record will show up, open it.
     4. Click *Preview*.
     5. If no errors show up, click *commit update sets*.
+3. To switch domain, click the gear symbol on the upper right of the screen.
+4. On *General*, there's the domain scroll-bar, switch to *Cognizant*
     
 ___Service Portal___
 1. Back in the instance, in the navigator type *Maintain Categories*.
