@@ -16,12 +16,14 @@ Project *Shipping Request* was created so end user can specify the methods their
 ## Getting Started
 * Create an account in [ServiceNow](https://developer.servicenow.com/dev.do)
 * Order an instance. After obtaining the instance, copy the created password down so you can modify it later inside the instance.
+
 ___Domain___
 1. Inside Github folder *Domain*, download the xml file.
 2. After logged into instance, type in application navigator *Domain*.
     1. Under application *Domain Admin*, click module *Domains*
     2. On the column with label *Name*, right-click, then click Import XML. 
     3. Select file downloaded from *Domain* folder from Github.
+    
 ___Update Set___
 1. From the folder *Update Sets* download the xml file.
 2. In the instance, type in the navigator *update sets*
@@ -30,6 +32,7 @@ ___Update Set___
     3. A new record will show up, open it.
     4. Click *Preview*.
     5. If no errors show up, click *commit update sets*.
+    
 ___Service Portal___
 1. Back in the instance, in the navigator type *Maintain Categories*.
 2. Search for *facilities* categories. 
